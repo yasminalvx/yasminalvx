@@ -1,4 +1,16 @@
 ## Oiii! Eu sou a Yasmin Alves
+
+<div>
+ <h3> Interesses </h3>
+ <ul> 
+   <li> C# </li>
+   <li> C++ </li>
+   <li> .NET </li>
+   <li> Java </li>
+ </ul>
+</div>
+
+##
  <div>
   <a href="https://github.com/yasminalvx">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yasminalvx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
