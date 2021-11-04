@@ -3,10 +3,11 @@
 <div>
  <h3> Interesses </h3>
  <ul> 
-   <li> C# </li>
-   <li> C++ </li>
-   <li> .NET </li>
-   <li> Java </li>
+   <li> C#, .NET</li>
+   <li> HTML, CSS, JavaScript, TypeScript </li>
+   <li> Angular </li>
+   <li> C, C++ </li>
+   <!-- <li> Java </li> -->
  </ul>
 </div>
 
