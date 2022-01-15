@@ -6,7 +6,7 @@
    <li> C#, .NET</li>
    <li> HTML, CSS, JavaScript, TypeScript </li>
    <li> Angular, React </li>
-   <li> C, C++ </li>
+   <li> C, C++, Python </li>
    <!-- <li> Java </li> -->
  </ul>
 </div>
@@ -14,18 +14,19 @@
 ##
  <div>
   <a href="https://github.com/yasminalvx">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yasminalvx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminalvx&layout=compact&langs_count=7&theme=radical"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yasminalvx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminalvx&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yasmin-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Yasmin-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Yasmin-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Yasmin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yasmin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yasmin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Yasmin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
