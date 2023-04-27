@@ -4,10 +4,8 @@
  <h3> Interesses </h3>
  <ul> 
    <li> C#, .NET</li>
-   <li> HTML, CSS, JavaScript, TypeScript </li>
-   <li> Angular </li>
+   <li> Angular, Vue </li>
    <li> C, C++, Python </li>
-   <!-- <li> Java </li> -->
  </ul>
 </div>
 
