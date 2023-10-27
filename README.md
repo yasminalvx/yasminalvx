@@ -1,10 +1,9 @@
-## Oiii! Eu sou a Yasmin Alves
+## Olá, me chamo Yasmin e sou desenvolvedora Front-End Angular!
 
 <div>
- <h3> Interesses </h3>
+ <h3> Habilidades </h3>
  <ul> 
-   <li> Angular, Vue </li>
-   <li> C#, .NET</li>
+   <li> Angular, .Net </li>
  </ul>
 </div>
 
@@ -18,11 +17,9 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yasmin-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Yasmin-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Yasmin-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Yasmin-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="Yasmin-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Yasmin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yasmin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Yasmin-DotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
 </div>
